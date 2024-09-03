@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @LuquetaW
-- 👀 I’m interested in C language, Python and JavaScript.
-- 🌱 I’m currently learning Python and C.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? My E-mail: lucaswdearaujo@gmail.com
