@@ -1,14 +1,13 @@
 # 👋 Olá, eu sou Lucas de Araujo!
 
-Sou um profissional de suporte técnico na **Bsoft**, apaixonado por tecnologia, inteligência artificial e desenvolvimento de soluções inovadoras. Atualmente, estou focado na criação de ferramentas para **comunicação e colaboração multidisciplinar** e no desenvolvimento de uma **IA autodidata para suporte ao cliente**.
-
+Sou um estudante de Engenharia de Software, e atualmente auto como suporte técnico na **Bsoft**, entusiasta da tecnologia, desenvolvimento de Softwares de soluções inovadoras.
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
@@ -20,17 +19,9 @@ Sou um profissional de suporte técnico na **Bsoft**, apaixonado por tecnologia,
 
 ---
 
-## 🌟 Projetos em Destaque
-
-- 🏥 **Cartaz Digital para Comunicação em Hospitais** - Incentivando a colaboração no ambiente hospitalar.
-- 🤖 **IA para Suporte Técnico** - Desenvolvendo um assistente inteligente para suporte ao cliente.
-- 📊 **Relatório sobre Indústria 4.0** - Estudo de caso aplicado à Kadesh Calçados Profissionais.
-
----
-
 ## 📫 Como Me Encontrar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-perfil/)
-[![Lattes](https://img.shields.io/badge/Lattes-Science-blue)](http://lattes.cnpq.br/seu-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lucaswessendorfdearaujo)
+[![Lattes](https://img.shields.io/badge/Lattes-Science-blue)](http://lattes.cnpq.br/1130766370969527)
 
 💡 Sempre aberto a novas ideias e colaborações!
