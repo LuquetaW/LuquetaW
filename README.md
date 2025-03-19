@@ -21,7 +21,7 @@ Sou um estudante de Engenharia de Software, e atualmente auto como suporte técn
 
 ## 📫 Como Me Encontrar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/lucaswessendorfdearaujo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucaswessendorfdearaujo/)
 [![Lattes](https://img.shields.io/badge/Lattes-Science-blue)](http://lattes.cnpq.br/1130766370969527)
 
 💡 Sempre aberto a novas ideias e colaborações!
