@@ -12,13 +12,6 @@ Sou um estudante de Engenharia de Software, e atualmente auto como suporte técn
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuquetaW&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuquetaW&layout=compact&theme=dracula)
-
----
-
 ## 📫 Como Me Encontrar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucaswessendorfdearaujo/)
